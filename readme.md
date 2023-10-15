@@ -1,4 +1,4 @@
-![Build Status](https://github.com/LewisDamy/recipe-app-api/actions/workflows/checks.yml/badge.svg)](https://github.com/LewisDamy/recipe-app-api/actions/workflows/checks.yml)
+![Build Status](https://github.com/LewisDamy/recipe-app-api/actions/workflows/checks.yml/badge.svg)
 
 # Recipe API Course
 
